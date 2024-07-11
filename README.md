@@ -54,4 +54,5 @@ the region’s development level encompassing physical infrastructure and human 
 management response, the efficacy of these responses amidst the increased frequency of shocks,
 improved political coordination, civil society pressure, informational advantages, etc. 
 
+Drafts and Codes attached here. 
 
