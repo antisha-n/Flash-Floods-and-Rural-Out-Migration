@@ -1,0 +1,235 @@
+	(1)	(2)
+VARIABLES	location_last_upr	location_last_upr
+		
+location_last_upr		
+		
+0b.HHold_size#0b.main_pattern#c.ln_flood_damage		1.483***
+		(0.171)
+0b.HHold_size#1.main_pattern#c.ln_flood_damage		2.901***
+		(0.306)
+1.HHold_size#0b.main_pattern#c.ln_flood_damage		0.649**
+		(0.141)
+1.HHold_size#1.main_pattern#c.ln_flood_damage		1.141
+		(0.281)
+HHold_size	14.20***	14.30***
+	(0.677)	(4.484)
+HH_type	0.875***	0.878***
+	(0.0140)	(0.0124)
+religion	0.713***	0.680***
+	(0.00641)	(0.0196)
+social_group	0.829***	0.792***
+	(0.0257)	(0.0430)
+land_holdings	1.128**	1.117**
+	(0.0673)	(0.0569)
+expenditure_tertile	0.841*	0.846
+	(0.0803)	(0.0866)
+sex	4.509***	3.549***
+	(0.312)	(0.359)
+age	1.000	0.999
+	(0.00472)	(0.00688)
+marital_status	0.777	0.723**
+	(0.124)	(0.111)
+general_education	0.904***	0.901***
+	(0.0276)	(0.0326)
+usual_principal_activity	0.993	0.981**
+	(0.00809)	(0.00844)
+year_dummy2	5.051*	3.748
+	(4.568)	(3.443)
+year_dummy3	3.879***	2.533***
+	(1.329)	(0.880)
+o.year_dummy4	-	-
+		
+year_dummy5	1.365	0.992
+	(0.669)	(0.473)
+o.year_dummy6	-	-
+		
+year_dummy7	2.044	1.599
+	(1.632)	(1.381)
+year_dummy8	1.504***	1.070
+	(0.155)	(0.216)
+year_dummy9	18.76***	10.63***
+	(6.996)	(2.552)
+year_dummy10	7.029***	5.277***
+	(0.315)	(0.436)
+year_dummy11	2.093***	1.625***
+	(0.334)	(0.203)
+year_dummy12	2.736	2.461
+	(2.671)	(2.328)
+year_dummy13	1.553	1.071
+	(1.647)	(1.081)
+year_dummy14	1.302	0.998
+	(0.548)	(0.329)
+year_dummy15	1.383***	1.280
+	(0.144)	(0.214)
+year_dummy16	0.690	0.478**
+	(0.228)	(0.155)
+year_dummy17	1.682	1.433
+	(0.942)	(0.741)
+year_dummy18	1.156	0.890
+	(1.016)	(0.808)
+year_dummy19	1.278**	1.027
+	(0.154)	(0.0327)
+year_dummy20	1.286	0.991
+	(0.852)	(0.671)
+year_dummy21	1.170	0.952
+	(0.409)	(0.359)
+year_dummy22	1.967	1.628
+	(1.467)	(1.131)
+year_dummy23	1.824*	1.435
+	(0.647)	(0.387)
+year_dummy24	1.550	1.255
+	(0.837)	(0.711)
+year_dummy25	1.375	1.236
+	(0.558)	(0.407)
+year_dummy26	1.861*	1.585
+	(0.610)	(0.595)
+year_dummy27	2.225	2.002
+	(1.413)	(1.454)
+district_dummy2	0.513	0.483
+	(0.487)	(0.485)
+district_dummy3	1.115	1.170
+	(1.144)	(1.116)
+district_dummy4	0.622	0.656
+	(0.272)	(0.175)
+district_dummy5	1.018	0.937
+	(2.248)	(1.995)
+district_dummy6	1.038	0.893
+	(1.061)	(0.845)
+district_dummy7	0.659	1.286
+	(0.481)	(0.762)
+district_dummy8	0.876	0.878
+	(0.944)	(0.949)
+district_dummy9	1.031	1.485
+	(1.443)	(2.043)
+district_dummy10	0.574	0.547
+	(0.416)	(0.335)
+district_dummy11	2.006	1.914
+	(3.639)	(3.589)
+district_dummy12	0.811	0.759
+	(0.591)	(0.520)
+district_dummy13	0.281	0.381
+	(0.270)	(0.342)
+district_dummy14	0.576	0.675
+	(0.828)	(0.813)
+district_dummy15	0.392**	0.395***
+	(0.178)	(0.136)
+district_dummy16	0.766	0.708
+	(0.976)	(0.857)
+district_dummy17	1.437	1.537
+	(1.746)	(1.443)
+district_dummy18	0.852	0.759
+	(0.724)	(0.605)
+district_dummy19	0.151**	0.207*
+	(0.135)	(0.196)
+district_dummy20	0.113***	0.165**
+	(0.0936)	(0.127)
+district_dummy21	3.886***	3.053***
+	(1.529)	(0.770)
+district_dummy22	1.707**	1.490**
+	(0.462)	(0.273)
+district_dummy23	1.480	1.398
+	(1.932)	(1.418)
+district_dummy24	0.987	0.898
+	(1.082)	(0.921)
+district_dummy25	0.753	0.673
+	(0.594)	(0.400)
+district_dummy26	1.403	1.638
+	(1.403)	(1.081)
+district_dummy27	0.679	0.633
+	(0.942)	(0.810)
+district_dummy28	0.348	0.374
+	(0.413)	(0.357)
+district_dummy29	1.597	1.359
+	(1.402)	(0.990)
+district_dummy30	1.202	1.042
+	(1.908)	(1.592)
+district_dummy31	0.592	0.539
+	(0.590)	(0.552)
+district_dummy32	0.886	1.003
+	(1.382)	(1.831)
+district_dummy33	1.216	1.084
+	(2.168)	(1.705)
+district_dummy34	0.761	0.726
+	(0.207)	(0.184)
+district_dummy35	0.455	0.408
+	(0.463)	(0.368)
+district_dummy36	0.409	0.398
+	(0.463)	(0.457)
+district_dummy37	0.508	0.557
+	(0.490)	(0.431)
+district_dummy38	0.254	0.208*
+	(0.258)	(0.195)
+district_dummy39	0.662	0.563
+	(0.711)	(0.552)
+district_dummy40	0.745	0.712
+	(0.749)	(0.673)
+district_dummy41	0.243	0.289
+	(0.260)	(0.296)
+o.district_dummy42	-	-
+		
+o.district_dummy43	-	-
+		
+district_dummy44	1.022	0.961
+	(1.134)	(1.002)
+district_dummy45	0.422	0.376
+	(0.475)	(0.399)
+district_dummy46	0.628	0.928
+	(0.705)	(0.971)
+district_dummy47	1.235	1.097
+	(1.255)	(0.994)
+district_dummy48	0.623	0.580
+	(0.620)	(0.538)
+district_dummy49	0.416	0.465
+	(0.449)	(0.472)
+district_dummy50	1.135	1.101
+	(1.088)	(0.962)
+district_dummy51	0.288	0.285
+	(0.340)	(0.323)
+district_dummy52	0.319	0.320
+	(0.331)	(0.298)
+district_dummy53	0.309	0.438
+	(0.377)	(0.503)
+district_dummy54	1.116	1.311
+	(1.175)	(1.272)
+district_dummy55	0.783	0.775
+	(0.888)	(0.815)
+district_dummy56	5.136	4.418
+	(5.549)	(4.444)
+district_dummy57	0.600	0.496
+	(0.649)	(0.504)
+district_dummy58	0.841	0.852
+	(0.805)	(0.733)
+district_dummy59	1.426	1.776
+	(1.606)	(1.877)
+district_dummy60	0.623	0.631
+	(0.703)	(0.657)
+district_dummy61	0.619	0.735
+	(0.749)	(0.838)
+district_dummy62	1.043	0.980
+	(1.201)	(1.045)
+district_dummy63	0.401	0.409
+	(0.443)	(0.424)
+district_dummy64	1.514	1.882
+	(1.700)	(1.958)
+district_dummy65	0.632	0.624
+	(0.671)	(0.592)
+district_dummy66	1.241	1.175
+	(1.277)	(1.095)
+district_dummy67	0.962	1.059
+	(0.889)	(0.890)
+district_dummy68	0.525	0.477
+	(0.585)	(0.504)
+district_dummy69	0.677	0.640
+	(0.732)	(0.648)
+district_dummy70	7.151**	9.302**
+	(7.060)	(8.352)
+0b.HHold_size#c.ln_flood_damage	2.632***	
+	(0.239)	
+1.HHold_size#c.ln_flood_damage	1.053	
+	(0.0983)	
+Constant	0.272	0.706
+	(0.698)	(1.929)
+		
+Observations	2,610	2,607
+Robust seeform in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
